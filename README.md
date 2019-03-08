@@ -1,9 +1,9 @@
 # ProxyGrabber
 Python Proxy Grabber
 
-Grab Proxies From :
+<h1>Grab Proxies From :</h1>
 
-https://free-proxy-list.net\n
+<p>https://free-proxy-list.net</p>
 https://www.socks-proxy.net
 https://www.us-proxy.org
 https://proxyscrape.com
